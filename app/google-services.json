@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "26545558144",
+    "firebase_url": "https://grocerryshopapp.firebaseio.com",
+    "project_id": "grocerryshopapp",
+    "storage_bucket": "grocerryshopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26545558144:android:2233fb5e4defbdd425cc65",
+        "android_client_info": {
+          "package_name": "com.example.googlemappractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26545558144-a64m9c7c116nqb46pn2jkcch8lno3l1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlemappractice",
+            "certificate_hash": "b047553b6d7cb6fe47c330b7f5c6b959c4f275a7"
+          }
+        },
+        {
+          "client_id": "26545558144-l6ccp9s1bem2dk99asi9dckkm2h3dl6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxA2rVvfCZAqOm62jTKsIi0CnjqUgrfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26545558144-l6ccp9s1bem2dk99asi9dckkm2h3dl6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26545558144:android:60cae7ad718e045425cc65",
+        "android_client_info": {
+          "package_name": "com.usertracker.googlemaptrackuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26545558144-iodf442qvi68h7kq1r633q9pdosh8cft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usertracker.googlemaptrackuser",
+            "certificate_hash": "b047553b6d7cb6fe47c330b7f5c6b959c4f275a7"
+          }
+        },
+        {
+          "client_id": "26545558144-l6ccp9s1bem2dk99asi9dckkm2h3dl6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxA2rVvfCZAqOm62jTKsIi0CnjqUgrfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26545558144-l6ccp9s1bem2dk99asi9dckkm2h3dl6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
